@@ -15,6 +15,7 @@ public class If_Practice {
 
 
         int age = 14;
+
         if (age >= 18) {
             System.out.println("you are eligible to get license");
         } else {

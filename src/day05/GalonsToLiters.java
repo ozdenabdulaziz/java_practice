@@ -15,7 +15,7 @@ public class GalonsToLiters {
         System.out.println(gallons2 + " Gallons equal to " + convert2 + " liters");
 
 
-    /*
+    /*  an other way
         double liters = gallons * 3.78541;
         double liters2 = gallons2 * 3.78541;
 

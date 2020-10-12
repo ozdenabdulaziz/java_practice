@@ -10,7 +10,7 @@ public class EvenlyDivisibility {
 
         boolean divisibleBy2 = remainderOf2 < 1;
 
-
+        System.out.println(divisibleBy2);
 
 
 

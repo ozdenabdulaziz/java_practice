@@ -10,7 +10,8 @@ public class Tasks3 {
 
         System.out.println(ageGroups);
 
-        /*
+        System.out.println("\n-------------- an other way ------------------\n");
+
         if(age>=0 && age<=150){
 
             if(age<21){
@@ -26,7 +27,7 @@ public class Tasks3 {
         }
 
         System.out.println(ageGroups);
-        */
+
     }
 }
 

@@ -11,9 +11,8 @@ public class Tasks1 {
 
         System.out.println(nameOfValue);
 
+        System.out.println("\n------------------------------\n");
 
-
-    /*
         int value = 9;
 
         String word = "";
@@ -47,7 +46,7 @@ public class Tasks1 {
 
         System.out.println(word);
 
-        */
+
 
     }
 }
