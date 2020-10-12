@@ -6,15 +6,15 @@ public class BreakPractice2 {
 
         char c1 = 'a';
 
-        if(c1 == 'a')
-            System.out.println(c1 + " is lovercase");
-        else if(c1 == 'A')
-            System.out.println(c1 + " is Uppercase");
+        String message = "";
 
+        if(c1 >='A' && c1 <='Z')
+            message = "Uppercase";
+        else if(c1>='a' && c1<= 'z')
+            message = "Lowercase";
+        else
+            message = "Please enter a letter";
 
-
-
-
-
+        System.out.println(c1 + " is a " + message);
     }
 }
