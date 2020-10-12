@@ -24,7 +24,7 @@ public class BreakPractice1 {
 
         System.out.println(a1 + ": " + a2 + "\n" + b1 + ": " + b1 + "\n" + c1 + ": " + c2 + "\n" + d1 + ": " + d2 + "\n" + e1 + ": " + e2 + "\n" + g1 + ": " + g2);
 
-        System.out.println("\n------------\t----------------------");
+        System.out.println("\n------------\t----------------------\n");
 
         System.out.println(a1 + ": " + a2);
         System.out.println(b1 + ": " + b2);
@@ -33,7 +33,7 @@ public class BreakPractice1 {
         System.out.println(e1 + ": " + e2);
         System.out.println(g1 + ": " + g2);
 
-        System.out.println("\n------------\tWith else-if statement\t----------------------");
+        System.out.println("\n------------\tWith else-if statement\t----------------------\n");
 
         String houseType = "Mansion";
         int occupants = 0;
@@ -55,7 +55,7 @@ public class BreakPractice1 {
 
         System.out.println(houseType + ": " + occupants);
 
-        System.out.println("\n------------\t----------------------");
+        System.out.println("\n------------\t----------------------\n");
 
         houseType = "Mobile Home";
 
