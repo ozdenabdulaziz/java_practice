@@ -1,6 +1,6 @@
 package Weekend_Practice;
 
-public class BreakPractice2 {git
+public class BreakPractice2 {
 
     public static void main(String[] args) {
 
