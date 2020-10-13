@@ -1,6 +1,6 @@
-package Weekend_Practice;
+package day01And15;
 
-public class BreakPractice3 {
+public class Tasks3 {
 
     public static void main(String[] args) {
 
@@ -29,3 +29,12 @@ public class BreakPractice3 {
 
     }
 }
+/*
+Given a number(long) determine and print how many digits it has.
+
+    - Condition: The number has to be between 1 and 100000, if it is not print "Invalid number"
+    Ex: 124 --> 3 digits
+        13213 --> 5 digits
+        883218 --> Invalid number
+        23 --> 2 digits
+ */

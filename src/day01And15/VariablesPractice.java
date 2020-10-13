@@ -1,4 +1,4 @@
-package Weekend_Practice;
+package day01And15;
 
 public class VariablesPractice {
 

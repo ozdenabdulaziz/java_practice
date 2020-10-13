@@ -1,6 +1,6 @@
-package Weekend_Practice;
+package day01And15;
 
-public class BreakPractice1 {
+public class Tasks1 {
 
     public static void main(String[] args) {
 
@@ -92,3 +92,14 @@ public class BreakPractice1 {
 
     }
 }
+
+/*
+Given a house type (String) print out the number of max occupants (int)
+    Tree house: 1
+    Mobile home: 2
+    Apartment: 4
+    Town house: 6
+    Villa: 8
+    Mansion: 10
+
+ */
