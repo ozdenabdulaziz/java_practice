@@ -37,7 +37,7 @@ public class CoinsCalculator {
 
 }
     /*
-    	int pennies = 250;
+    		int pennies = 250;
 		int dollars = pennies / 100;
 		System.out.println(dollars);
 		pennies %= 100; //50
